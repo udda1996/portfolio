@@ -21,4 +21,7 @@ a:hover {
     text-decoration: underline;
 }
 
+.wy-nav-content {
+    max-width: 100%;
+}
 

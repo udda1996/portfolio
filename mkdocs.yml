@@ -1,0 +1,25 @@
+site_name: Saman Atapattu
+nav:
+  - Research:
+      - Research Interest: research/research_interest.md
+      - Research Group: research/research_group.md
+      - Publications: research/publications.md
+      - News: research/news.md
+
+  - Teaching:
+      - Teaching at University of Melbourne: teaching/unimelb.md
+      - Teaching at RMIT: teaching/rmit.md
+      - Teaching at University of Alberta: teaching/uofa.md
+
+  - Service:
+      - Service at RMIT: service/rmit.md
+
+  - Links:
+      - Google Scholar: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=oXzLqX8AAAAJ
+      - ResearchGate: https://www.researchgate.net/profile/Saman_Atapattu
+      - LinkedIn: https://www.linkedin.com/in/saman-atapattu-1a173152/?originalSubdomain=au
+
+theme:
+  name: readthedocs
+extra_css:
+  - theme/custom.css
